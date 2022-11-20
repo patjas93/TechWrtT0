@@ -2,7 +2,14 @@
 This is title
 ===========================================
 
-<!-- Here comes the table of content -->
+<!-- Here comes the table of content - manual way -->
+## Table of contents
+
+- [Links and images](#links-and-images)
+    - [Links](#links)
+    - [Images](#images)
+
+
 
 <!-- Example of paragraph of text with line break -->
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
