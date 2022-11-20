@@ -54,6 +54,9 @@ This is not from markdown, this is html which sometimes works with markdown.
 ## Images 
 <!-- Example of an image -->
 
+![svg image 1](./images/img1.png)
+
+![svg image 2](./images/img2.png)
 <!-- Example of an image with hover text -->
 
 
