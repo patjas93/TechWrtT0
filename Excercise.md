@@ -54,12 +54,17 @@ This is not from markdown, this is html which sometimes works with markdown.
 ## Images 
 <!-- Example of an image -->
 
-![svg image 1](./images/img1.png)
 
 ![svg image 2](./images/img2.png)
+
+<!--https://picsum.photos-->
+![obrazek ze strony internetowej](https://picsum.photos/id/237/200/300)
+
+<!--obrazek z wiki-->
+![obrazek z wiki](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/K%C4%85ty_Wroc%C5%82awskie_-_Rynek_01.jpg/1280px-K%C4%85ty_Wroc%C5%82awskie_-_Rynek_01.jpg)
 <!-- Example of an image with hover text -->
 
-
+![svg image 1](./images/img1.png "Mountains")
 
 <!-- Example of equation or inline code -->
 
