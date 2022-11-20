@@ -102,5 +102,6 @@ Column      | Column 2 | Last Column
 ------      | -------- | ---
 Text1       | Text 2   | Text3
 NextRow1    | NextRow2 | NextRow3
+NextRow4    | NextRow5 | NextRow6
 
 <!-- Paragraph after table -->
