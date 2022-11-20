@@ -46,8 +46,10 @@ This is not from markdown, this is html which sometimes works with markdown.
 [Webpage on localization](https://localization.pl)
 
 <!-- Example of link to another file -->
-
 [Additional info](reference.md)
+
+
+[Additional info 2](AnotherFile.md)
 
 ## Images 
 <!-- Example of an image -->
