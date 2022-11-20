@@ -10,14 +10,22 @@ This is title
     - [Images](#images)
 
 
+<!-- Here comes the table of content - auto way -->
+## Table of contents 2 auto
+
+
 
 <!-- Example of paragraph of text with line break -->
+
+
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem **Ipsum** has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of  
  type and scrambled it to make a type specimen book. It has _survived_ not only five __centuries__, but also the leap into electronic typesetting, remaining essentially unchanged. 
+
+ 
 
 <!-- Example of another paragraph -->
 test
@@ -40,7 +48,7 @@ This is ~~not a text~~
 
 <u>This is underline</u>
 
-This is not from markdown, this is html which sometimes works with markdown.
+This is not from markdown, this is html which sometimes works with markdown (not on github serwer)
 
 <!-- Example of headers -->
 
@@ -88,5 +96,11 @@ This is not from markdown, this is html which sometimes works with markdown.
 <!-- Example of numbered list -->
 
 <!-- Example of table -->
+## Table
+
+Column      | Column 2 | Last Column
+------      | -------- | ---
+Text1       | Text 2   | Text3
+NextRow1    | NextRow2 | NextRow3
 
 <!-- Paragraph after table -->
