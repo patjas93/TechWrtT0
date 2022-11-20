@@ -28,6 +28,12 @@ This ia also *italic* text.
 
 This is ~~not a text~~
 
+<!-- underlinr -->
+
+<u>This is underline</U>
+
+This is not from markdown, this is html which sometimes works with markdown.
+
 <!-- Example of headers -->
 
 
