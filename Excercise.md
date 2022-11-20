@@ -31,7 +31,7 @@ This is ~~not a text~~
 
 <!-- underlinr -->
 
-<u>This is underline</U>
+<u>This is underline</u>
 
 This is not from markdown, this is html which sometimes works with markdown.
 
@@ -67,6 +67,8 @@ This is not from markdown, this is html which sometimes works with markdown.
 ![svg image 1](./images/img1.png "Mountains")
 
 <!-- Example of equation or inline code -->
+
+
 
 <!-- Example of a block of code -->
 
