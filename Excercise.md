@@ -1,23 +1,22 @@
 <!-- Example of title -->
-This is title
+This is title<!-- omit in toc -->
 ===========================================
 
 <!-- Here comes the table of content - manual way -->
-## Table of contents
+Table of content
 
+
+
+- [Paragraph](#paragraph)
 - [Links and images](#links-and-images)
-    - [Links](#links)
-    - [Images](#images)
-
-
-<!-- Here comes the table of content - auto way -->
-## Table of contents 2 auto
-
+  - [Links](#links)
+  - [Images](#images)
+  - [Table](#table)
 
 
 <!-- Example of paragraph of text with line break -->
 
-
+# Paragraph 
 Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
@@ -88,7 +87,10 @@ This is not from markdown, this is html which sometimes works with markdown (not
 <!-- Example of a block of code -->
 
 <!-- Example of code highlighting -->
-
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 <!-- Example of quote -->
 
 <!-- Example of bullet list -->
@@ -98,10 +100,13 @@ This is not from markdown, this is html which sometimes works with markdown (not
 <!-- Example of table -->
 ## Table
 
-Column      | Column 2 | Last Column
-------      | -------- | ---
-Text1       | Text 2   | Text3
-NextRow1    | NextRow2 | NextRow3
-NextRow4    | NextRow5 | NextRow6
+| Column   | Column 2 | Last Column |
+| -------- | -------- | ----------- |
+| Text1    | Text 2   | Text3       |
+| NextRow1 | NextRow2 | NextRow3    |
+| NextRow4 | NextRow5 | NextRow6    |
+
+
+Tekst po tabelce
 
 <!-- Paragraph after table -->
