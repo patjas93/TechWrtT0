@@ -37,14 +37,24 @@ This is not from markdown, this is html which sometimes works with markdown.
 
 <!-- Example of headers -->
 
+# Links and images
+
+## Links
 
 <!-- Example of external link -->
 
+[Webpage on localization](https://localization.pl)
+
 <!-- Example of link to another file -->
 
+[Additional info](reference.md)
+
+## Images 
 <!-- Example of an image -->
 
 <!-- Example of an image with hover text -->
+
+
 
 <!-- Example of equation or inline code -->
 
