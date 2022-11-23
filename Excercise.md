@@ -82,7 +82,7 @@ This is not from markdown, this is html which sometimes works with markdown (not
 
 <!-- Example of equation or inline code -->
 
-
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 <!-- Example of a block of code -->
 
