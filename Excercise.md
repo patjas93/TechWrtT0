@@ -88,7 +88,9 @@ This is ~~not a text~~
 # Equations 
 
 This is sample equation: 
-$$  x^n + y^n = z^n $$
+
+
+$  x^n + y^n = z^n $
 
 <!-- Example of a block of code -->
 # Code 
