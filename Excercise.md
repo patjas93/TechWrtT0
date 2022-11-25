@@ -88,7 +88,7 @@ This is ~~not a text~~
 # Equations 
 
 This is sample equation: 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+$$  x^n + y^n = z^n $$
 
 <!-- Example of a block of code -->
 # Code 
