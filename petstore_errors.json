@@ -517,7 +517,7 @@
                 "tags": [
                     "store"
                 ],
-                "summary": "Delete purchase order by ID",
+                "summary": "Delete purchase order by ID aaa",
                 "description": "Deletes purchase order by specified ID. For valid response try integer IDs with positive integer value. Negative or non-integer values will generate API errors",
                 "operationId": "deleteOrder",
                 "produces": [
